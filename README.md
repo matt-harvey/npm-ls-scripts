@@ -21,7 +21,7 @@ Npm lets you define [scripts](https://www.npmjs.org/doc/misc/npm-scripts.html) t
 You could cat `package.json`, but that's lame.  Instead, install `npm-ls-scripts`:
 
 ```
-npm install npm-ls-scripts --save
+npm install npm-ls-scripts --save-dev
 ```
 
 And run:
