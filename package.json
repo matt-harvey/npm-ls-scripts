@@ -21,5 +21,8 @@
   "homepage": "https://github.com/jaketrent/npm-ls-scripts",
   "bin": {
     "ls-scripts": "./bin/cli.js"
+  },
+  "dependencies": {
+    "find-up": "^2.0.0"
   }
 }
